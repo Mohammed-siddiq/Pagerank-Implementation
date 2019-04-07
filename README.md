@@ -1,4 +1,4 @@
-# overview
+# Overview
 
 Developed as part of my master's course CS 582 - Information retrieval - at University of Illinois,Chicago
 
