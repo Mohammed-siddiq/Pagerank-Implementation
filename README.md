@@ -1,5 +1,7 @@
 # overview
 
+Developed as part of my master's course CS 582 - Information retrieval - at University of Illinois,Chicago
+
 This project implements pagerank algorithm for the given collection of documents. 
 Page rank is run over individual documents and its corresponding MRR is calculated for top k phrases (k ranging from 1 to 10), using the corresponding ground truth file.
 
@@ -76,3 +78,5 @@ This implementation gave the following MRR for the given collection of documents
  MRR @ k= 9  :  0.037431092266544355
  
  MRR @ k= 10 :  0.0445237863795545
+
+
